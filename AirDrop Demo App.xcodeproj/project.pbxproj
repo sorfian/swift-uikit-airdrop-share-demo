@@ -9,21 +9,35 @@
 /* Begin PBXBuildFile section */
 		D69A176C29DD437A0093638E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69A176B29DD437A0093638E /* AppDelegate.swift */; };
 		D69A176E29DD437A0093638E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69A176D29DD437A0093638E /* SceneDelegate.swift */; };
-		D69A177029DD437A0093638E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69A176F29DD437A0093638E /* ViewController.swift */; };
 		D69A177329DD437A0093638E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D69A177129DD437A0093638E /* Main.storyboard */; };
 		D69A177529DD437B0093638E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D69A177429DD437B0093638E /* Assets.xcassets */; };
 		D69A177829DD437B0093638E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D69A177629DD437B0093638E /* LaunchScreen.storyboard */; };
+		D69A178029DD44010093638E /* AirDropTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69A177F29DD44010093638E /* AirDropTableViewController.swift */; };
+		D69A178229DD44260093638E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69A178129DD44260093638E /* DetailViewController.swift */; };
+		D6D17A3829DD9D57009B79D1 /* hello world.html in Resources */ = {isa = PBXBuildFile; fileRef = D6D17A3229DD9D57009B79D1 /* hello world.html */; };
+		D6D17A3929DD9D57009B79D1 /* become ios developer.pdf in Resources */ = {isa = PBXBuildFile; fileRef = D6D17A3329DD9D57009B79D1 /* become ios developer.pdf */; };
+		D6D17A3A29DD9D57009B79D1 /* my macbook.png in Resources */ = {isa = PBXBuildFile; fileRef = D6D17A3429DD9D57009B79D1 /* my macbook.png */; };
+		D6D17A3B29DD9D57009B79D1 /* cafeloisl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D6D17A3529DD9D57009B79D1 /* cafeloisl.jpg */; };
+		D6D17A3C29DD9D57009B79D1 /* app requirement example.doc in Resources */ = {isa = PBXBuildFile; fileRef = D6D17A3629DD9D57009B79D1 /* app requirement example.doc */; };
+		D6D17A3D29DD9D57009B79D1 /* hello sorfian.ppt in Resources */ = {isa = PBXBuildFile; fileRef = D6D17A3729DD9D57009B79D1 /* hello sorfian.ppt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D69A176829DD437A0093638E /* AirDrop Demo App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AirDrop Demo App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D69A176B29DD437A0093638E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D69A176D29DD437A0093638E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D69A176F29DD437A0093638E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D69A177229DD437A0093638E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D69A177429DD437B0093638E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D69A177729DD437B0093638E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D69A177929DD437B0093638E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D69A177F29DD44010093638E /* AirDropTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirDropTableViewController.swift; sourceTree = "<group>"; };
+		D69A178129DD44260093638E /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		D6D17A3229DD9D57009B79D1 /* hello world.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "hello world.html"; sourceTree = "<group>"; };
+		D6D17A3329DD9D57009B79D1 /* become ios developer.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "become ios developer.pdf"; sourceTree = "<group>"; };
+		D6D17A3429DD9D57009B79D1 /* my macbook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "my macbook.png"; sourceTree = "<group>"; };
+		D6D17A3529DD9D57009B79D1 /* cafeloisl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cafeloisl.jpg; sourceTree = "<group>"; };
+		D6D17A3629DD9D57009B79D1 /* app requirement example.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "app requirement example.doc"; sourceTree = "<group>"; };
+		D6D17A3729DD9D57009B79D1 /* hello sorfian.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "hello sorfian.ppt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +70,30 @@
 		D69A176A29DD437A0093638E /* AirDrop Demo App */ = {
 			isa = PBXGroup;
 			children = (
+				D6D17A3129DD9CD2009B79D1 /* resources */,
 				D69A176B29DD437A0093638E /* AppDelegate.swift */,
 				D69A176D29DD437A0093638E /* SceneDelegate.swift */,
-				D69A176F29DD437A0093638E /* ViewController.swift */,
 				D69A177129DD437A0093638E /* Main.storyboard */,
 				D69A177429DD437B0093638E /* Assets.xcassets */,
 				D69A177629DD437B0093638E /* LaunchScreen.storyboard */,
 				D69A177929DD437B0093638E /* Info.plist */,
+				D69A177F29DD44010093638E /* AirDropTableViewController.swift */,
+				D69A178129DD44260093638E /* DetailViewController.swift */,
 			);
 			path = "AirDrop Demo App";
+			sourceTree = "<group>";
+		};
+		D6D17A3129DD9CD2009B79D1 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				D6D17A3629DD9D57009B79D1 /* app requirement example.doc */,
+				D6D17A3329DD9D57009B79D1 /* become ios developer.pdf */,
+				D6D17A3529DD9D57009B79D1 /* cafeloisl.jpg */,
+				D6D17A3729DD9D57009B79D1 /* hello sorfian.ppt */,
+				D6D17A3229DD9D57009B79D1 /* hello world.html */,
+				D6D17A3429DD9D57009B79D1 /* my macbook.png */,
+			);
+			path = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +157,12 @@
 				D69A177829DD437B0093638E /* LaunchScreen.storyboard in Resources */,
 				D69A177529DD437B0093638E /* Assets.xcassets in Resources */,
 				D69A177329DD437A0093638E /* Main.storyboard in Resources */,
+				D6D17A3B29DD9D57009B79D1 /* cafeloisl.jpg in Resources */,
+				D6D17A3929DD9D57009B79D1 /* become ios developer.pdf in Resources */,
+				D6D17A3C29DD9D57009B79D1 /* app requirement example.doc in Resources */,
+				D6D17A3829DD9D57009B79D1 /* hello world.html in Resources */,
+				D6D17A3D29DD9D57009B79D1 /* hello sorfian.ppt in Resources */,
+				D6D17A3A29DD9D57009B79D1 /* my macbook.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +173,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D69A177029DD437A0093638E /* ViewController.swift in Sources */,
 				D69A176C29DD437A0093638E /* AppDelegate.swift in Sources */,
 				D69A176E29DD437A0093638E /* SceneDelegate.swift in Sources */,
+				D69A178029DD44010093638E /* AirDropTableViewController.swift in Sources */,
+				D69A178229DD44260093638E /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
